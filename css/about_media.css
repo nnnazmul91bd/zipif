@@ -1,0 +1,137 @@
+@media (max-width: 768px){
+	.banner_content {
+    padding: 20px 0px!important;
+}
+.banner_content h1{
+
+	font-size: 26px;
+}
+.banner_content p{
+
+	font-size: 18px;
+}
+.banner_content{
+	text-align: left!important;
+}
+.banner_img {
+    padding: 20px 10px;
+}
+.firestone_content h1{
+	font-size: 32px;
+	padding-bottom: 10px;
+}
+.firestone_content p{
+	font-size: 17px;
+}
+.firestone_content {
+    margin-bottom: 30px;
+}
+.signup_content h1{
+	font-size: 37px;
+}
+.signup_content h2{
+	font-size: 18px;
+}
+
+
+}
+
+
+
+
+@media (max-width: 576px){
+
+	.banner_section{
+		padding: 130px 40px;
+	}
+	.firestone_section {
+		 padding-left: 40px;
+    padding-right: 40px;
+	}
+	input[type="email"]{
+		width: 400px;
+		padding: 16px 0!important;
+	}
+	.btn_5{
+		margin-left: 0;
+		margin-top: 10px;
+	}
+	.signup_content {
+    padding: 0 35px;
+}
+.signup_content h1{
+	font-size: 30px;
+}
+.signup_content h1{
+	line-height: 40px;
+}
+.signup_content h2 {
+    font-size: 14px;
+}
+.firestone_content h1 {
+    margin-top: 40px;
+}
+   
+}
+
+
+@media (max-width: 300px){
+	.banner_content {
+    text-align: center!important;
+}
+.firestone_content h1 {
+    font-size: 18px;
+    text-align: center;
+    line-height: 5px;
+    font-weight: 800;
+}
+.banner_content p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.banner_content .btn_4 {
+    margin-top: 20px;
+    background: #3BB44A;
+    padding: 14px 20px;
+    font-size: 12px;
+}
+.banner_img {
+    display: none;
+}
+.banner_section {
+    /* padding: 30px 40px; */
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.firestone_content p {
+    text-align: center;
+    font-size: 14px;
+    line-height: 25px;
+}
+.signup_content h1 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px!important;
+}
+.signup_content h2 {
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 20px;
+    margin-bottom: 18px;
+}
+.btn_5 {
+    width: 250px;
+}
+
+input[type="email"] {
+    width: 250px;
+}
+.firestone_content a{
+    display: block;
+    text-align: center;
+}
+}
+
+
+

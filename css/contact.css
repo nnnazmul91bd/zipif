@@ -1,0 +1,46 @@
+
+
+.contact_section{
+	padding: 110px 0;
+}
+
+.contact_img{
+	background: url('../img/zipify-contact-banner.jpg');
+	background-size: cover;
+	height: 75vh;
+	position: relative;
+	/* padding: 0; */
+}
+.contact_content{
+	position: absolute;
+	top: 35%;
+	left: 74%;
+	transform: translate(-50%, -50%);
+}
+.contact_content img{
+	width: 190px;
+}
+.contact_content p{
+    font-size: 18px;
+    padding-top: 20px;
+    line-height: 30px;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+.contact_content p span{
+	color: #3BB44A;
+    font-weight: 600;
+}
+.contact_content p span:hover{
+	color: #7cdc6a;
+}
+.contact_content h5{
+    font-size: 17px;
+    /* margin: 0; */
+    font-weight: 500;
+    padding-top: 20px;
+}
+.contact_content h6{
+    font-size: 17px;
+    font-weight: 500;
+}

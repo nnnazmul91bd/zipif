@@ -1,0 +1,108 @@
+@media (max-width: 768px){
+
+	.btn_1{
+		padding: 20px 70px;
+
+	}
+	.banner_content img {
+    padding-top: 25px;
+}
+.banner_content h2{
+	padding: 25px 0;
+}
+.product_img img {
+    width: 260px;
+}
+.product_content .btn_3{
+	padding: 20px 50px;
+}
+.banner_content ul li{
+	list-style: none;
+}
+.banner_content {
+    text-align: center;
+    padding: 20px 50px;
+}
+.social_item .social_nav2{
+	justify-content: center;
+	padding-top: 30px;
+}
+.social_nav1 {
+    padding-top: 30px;
+}
+.banner_content img {
+    padding: 30px 0;
+}
+.ecommerce_section{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+.product_section{
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+}
+.product_content p{
+	text-align: center;
+}
+.ecommerce_content p{
+	max-width: 400px;
+}
+.ecommerce_content h1{
+	padding-bottom: 30px;
+}
+}
+
+
+
+@media (max-width: 476px){
+	.ecommerce_content h1{
+		font-size: 30px;
+	}
+	.ecommerce_content p{
+		font-size: 18px;
+	}
+	.fcontent h4{
+		font-size: 18px;
+	}
+	.product_section h1{
+		font-size: 30px;
+	}
+	.banner_content ul li{
+		font-size: 14px;
+	}
+	.ecommerce_content .btn_2{
+		padding: 18px 40px;
+	}
+}
+
+
+
+@media (max-width: 300px){
+	.banner_content h2 {
+    line-height: 30px;
+    font-size: 22px;
+}
+	.banner_content ul{
+		padding: 0;
+	}
+	.banner_content ul li{
+    list-style: disc;
+    text-align: left;
+	}
+	.btn_1 {
+    padding: 15px 20px;
+}
+.product_content .btn_3 {
+    padding: 18px 23px;
+}
+.product_img img {
+    width: 200px;
+}
+.banner_content img {
+    padding: 10px 0;
+}
+
+}

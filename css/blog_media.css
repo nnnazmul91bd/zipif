@@ -1,0 +1,31 @@
+@media (max-width: 767px){
+	.filter_menu .nav li{
+		width: 48%;
+    border-bottom: 2px solid;
+	}
+}
+
+@media (max-width: 575px){
+	.filter_menu .nav li{
+		text-align: center;
+
+	}
+	.our_course{
+		height: 500px;
+	}
+
+}
+@media (max-width: 424px){
+	.our_course{
+		height: 400px;
+	}
+}
+@media (max-width: 300px){
+	.blog_banner_img{
+		height: 30vh;
+	}
+	.filter_menu .nav li {
+    text-align: center;
+    width: 100%;
+}
+}

@@ -1,0 +1,143 @@
+.banner_section{
+	    background: linear-gradient(160deg, rgba(255,255,255,1) 0%,rgba(255,255,255,1) 50%,rgba(242,242,242,1) 50%,rgba(242,242,242,1) 100%);
+	    /* background: #f2f2f2; */
+	    padding: 130px 0;
+	    position: relative;
+
+}
+.banner_middle::before{
+	content: "";
+	
+	/* background: linear-gradient(to left, rgba(255, 255, 255, 0) 0, #fff 100%), url(../img/zipify_about_pattern.png) repeat;
+	background-size: cover;
+    overflow: hidden;
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    /* z-index: ; */
+    width: 56%; */
+}
+.banner_content h1{
+	color: #56565e;
+	font-size: 30px;
+	line-height: 47px;
+	font-weight: 800;
+	}
+	.banner_content p{
+		color: #75757e;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 32px;
+	}
+	.banner_content .btn_4{
+		margin-top: 20px;
+    background: #3BB44A;
+    padding: 25px 50px;
+	}
+.banner_img{
+    padding: 20px 80px;
+}
+.banner_img img{}
+/* banner banner banner banner banner */
+
+
+/* Hi I’m Ezra Firestone Hi I’m Ezra Firestone Hi I’m Ezra Firestone  */
+.firestone_section{
+	padding-top: 60px;
+}
+.firestone_img{}
+.firestone_img img{}
+.firestone_content{}
+.firestone_content h1{
+	color: #56565e;
+    font-size: 40px;
+    line-height: 47px;
+    padding-bottom: 20px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+.firestone_content p{
+	font-size: 19px;
+    font-weight: 500;
+    text-align: left;
+    color: #75757e;
+    line-height: 40px;
+}
+.firestone_content a{
+	    text-decoration: none;
+    font-size: 13px;
+    color: #40B252;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: all 0.3s;
+}
+.firestone_content a:hover{
+	letter-spacing: 2px;
+}
+/* Hi I’m Ezra Firestone Hi I’m Ezra Firestone Hi I’m Ezra Firestone  */
+
+
+
+/* SIGN UP FORM MY FREE TRAINING SERIES SIGN UP FORM MY FREE TRAINING SERIES  */
+.signup_section{
+	padding-top: 80px;
+	padding-bottom: 110px;
+	background: #52535E;
+}
+.signup_content{
+    text-align: center;
+    color: white;
+}
+.signup_content h2{
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 36px;
+}
+.signup_content h1{
+    font-size: 40px;
+    max-width: 929px;
+    font-weight: 800;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 58px;
+}
+input[type="email"]{
+	padding: 16px 160px!important;
+    background: white;
+    width: 480px;
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+}
+.btn_5{
+	    width: 300px;
+    max-width: 100%;
+    padding: 23px 20px 22px !important;
+    background-color: #3bb44a;
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.2);
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #ffffff;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 0;
+    margin-left: 26px;
+    transition: all 0.3s;
+}
+.btn_5:hover{
+	transform: translateY(-5px);
+	box-shadow: 0 10px 50px rgba(0, 0, 0, 0.08), 0 13px 45px rgba(0, 0, 0, 0.08);
+	color: white!important;
+}
+.justify-content-center{
+	margin-top: 35px!important;
+}
+/* SIGN UP FORM MY FREE TRAINING SERIES SIGN UP FORM MY FREE TRAINING SERIES  */

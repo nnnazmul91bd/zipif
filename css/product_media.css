@@ -1,0 +1,39 @@
+@media (max-width: 768px){
+	.banner_content h2{
+		    font-size: 31px;
+    line-height: 40px;
+	}
+	.banner_content p{
+		padding-top: 0;
+	}
+	.banner_img{
+		padding-left: 20px;
+	}
+	.product_content .btn_3{
+		padding: 20px 46px!important;
+	}
+	.product_img img {
+    width: 245px!important;
+}
+
+
+}
+
+
+
+
+
+@media (max-width: 320px){
+		.banner_content {
+    text-align: center!important;
+    padding: 20px 10px!important;
+}
+.product_content .btn_3 {
+    padding: 20px 30px!important;
+}
+.product_img img {
+    width: 220px!important;
+}
+
+
+}
