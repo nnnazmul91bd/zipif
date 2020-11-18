@@ -22,7 +22,7 @@
 }
 @media (max-width: 300px){
 	.blog_banner_img{
-		height: 30vh;
+		height: 20vh;
 	}
 	.filter_menu .nav li {
     text-align: center;
